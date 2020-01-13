@@ -11,5 +11,5 @@ sfdx force:user:permset:assign -n EPB
 # sfdx force:data:tree:import -p data/masterImportPlan.json
 # sfdx force:apex:execute -f scripts/setup.cls
 
-sfdx force:user:password:generate -p sfdx1234 -g User -l User
+sfdx force:user:password:generate
 sfdx force:org:open

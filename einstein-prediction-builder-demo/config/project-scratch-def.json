@@ -1,12 +1,18 @@
 {
     "orgName": "Einstein Prediction Builder Demo",
     "description": "epbdemo",
-    "template": "0TTB0000000gtmw",
+    "edition": "Developer",
     "settings": {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": true,
-            "s1EncryptedStoragePref2": false,
-            "selfSetPasswordInApi": true
-      }
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        },
+        "securitySettings": {
+            "passwordPolicies": {
+                "enableSetPasswordInApi": true
+            }
+        }
     }
 }

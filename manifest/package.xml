@@ -125,5 +125,13 @@
 		<members>WorkTypeGroupMember</members>
 		<name>CustomObject</name>
 	</types>
+	<types>
+		<members>*</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>Profile</name>
+	</types>
 	<version>47.0</version>
 </Package>

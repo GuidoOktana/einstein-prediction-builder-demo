@@ -1,0 +1,22 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:attribute name="developerName" type="String" access="global" default="Sales_Dashboard"/>
+    <aura:attribute name="dashboardDef" type="Object"/>
+    <aura:attribute name="pages" type="Object[]"/>
+    <aura:attribute name="filter" type="String"/>
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+	<aura:handler event="wave:selectionChanged" action="{!c.handleSelectionChanged}"/>
+    
+    <wave:sdk aura:id="sdk"/>
+    
+    <div>
+        <lightning:tabset onselect="{!c.handleTabSelect}" class="page-tabs">
+            <aura:iteration items="{!v.pages}" var="page">
+                <lightning:tab label="{!page.label}" id="{!page.name}" class="tab">
+                </lightning:tab>
+            </aura:iteration>
+        </lightning:tabset>
+        <wave:waveDashboard developerName="{!v.developerName}" height="600" showHeader="false" showTitle="false" showSharing="false"/>
+    </div>
+    
+</aura:component>

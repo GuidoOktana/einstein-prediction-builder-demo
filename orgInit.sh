@@ -10,14 +10,16 @@ sfdx force:source:push
 
 # sfdx force:apex:execute -f scripts/setup.cls
 
-sfdx force:data:bulk:upsert -s Account -f ./data/accounts.csv -i Id -w 2
-sfdx force:data:bulk:upsert -s Contact -f ./data/contacts.csv -i Id -w 2
+# sfdx force:data:bulk:upsert -s Account -f ./data/accounts.csv -i Id -w 2
+# sfdx force:data:bulk:upsert -s Contact -f ./data/contacts.csv -i Id -w 2
 sfdx force:user:permset:assign -n EPB
 
 # sfdx force:data:tree:import -p data/accounts.json
 # sfdx force:data:tree:import -p data/contacts.json
 
 # sfdx shane:data:tree:import -p data/plan.json -d data/
+
+sfdx shane:data:tree:import -p data/plan.json -d data/
 
 
 sfdx force:user:password:generate

@@ -19,7 +19,7 @@ sfdx force:user:permset:assign -n EPB
 
 # sfdx shane:data:tree:import -p data/plan.json -d data/
 
-sfdx shane:data:tree:import -p data/plan.json -d data/
+sfdx data:tree:import -p data/plan.json -d data/
 
 
 sfdx force:user:password:generate

@@ -32,7 +32,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Contact.Current_Age__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -67,7 +67,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Contact.External_Accounts__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -142,7 +142,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Contact.Likelihood_to_upgrade2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -152,7 +152,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Contact.MailingAddress</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -182,7 +182,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Contact.Money_Outflows_Last_30_Days__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -302,14 +302,50 @@
         <readable>true</readable>
     </fieldPermissions>
 
+     <!-- <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.SystemModstamp</field>
+        <readable>true</readable>
+    </fieldPermissions> -->
+    <!-- <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.Name</field>
+        <readable>true</readable>
+    </fieldPermissions> -->
+    <!-- <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.LastModifiedDate</field>
+        <readable>true</readable>
+    </fieldPermissions> -->
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.PhotoUrl</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.IsDeleted</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.IsEmailBounced</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <!-- <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.CreatedDate</field>
+        <readable>true</readable>
+    </fieldPermissions> -->
+
     <hasActivationRequired>false</hasActivationRequired>
     <label>EPB</label>
     <!-- <license>System Administrator User</license> -->
 
     <objectPermissions>
-        <allowCreate>false</allowCreate>
+        <allowCreate>true</allowCreate>
         <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
+        <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Contact</object>

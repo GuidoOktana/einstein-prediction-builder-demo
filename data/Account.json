@@ -6,11 +6,9 @@
                 "referenceId": "AccountRef1"
             },
             "Industry": "Chemicals",
-            "IsDeleted": false,
             "Name": "Ohana Inc",
             "NumberOfEmployees": 6655,
             "Phone": "1(800)334-2321",
-            "PhotoUrl": "/services/images/photo/0016g000003PipHAAS",
             "Type": "Customer"
         },
         {
@@ -19,11 +17,9 @@
                 "referenceId": "AccountRef2"
             },
             "Industry": "Apparel",
-            "IsDeleted": false,
             "Name": "Albert Incorporated",
             "NumberOfEmployees": 456,
             "Phone": "8315543211",
-            "PhotoUrl": "/services/images/photo/0016g000003PipIAAS",
             "Type": "Customer",
             "Website": "albertinc.com"
         },
@@ -32,9 +28,7 @@
                 "type": "Account",
                 "referenceId": "AccountRef3"
             },
-            "IsDeleted": false,
-            "Name": "Travel Experts",
-            "PhotoUrl": "/services/images/photo/0016g000003PipJAAS"
+            "Name": "Travel Experts"
         },
         {
             "attributes": {
@@ -42,16 +36,6 @@
                 "referenceId": "AccountRef4"
             },
             "AnnualRevenue": 4000000000,
-            "BillingAddress": {
-                "city": "San Francisco",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "94105",
-                "state": "CA",
-                "street": "350 Mission Street"
-            },
             "BillingCity": "San Francisco",
             "BillingCountry": "United States",
             "BillingPostalCode": "94105",
@@ -60,21 +44,9 @@
             "Description": "Hottest tech company in Silicon Valley. Specializes in AI and IoT across various industries from Manufacturing to Biotech and Finance. Focus is primarily B2B, but is looking to make a big move soon into B2C market.",
             "Fax": "415-009-0811",
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "Stevens Capital",
             "NumberOfEmployees": 22000,
             "Phone": "415-012-0214",
-            "PhotoUrl": "/services/images/photo/0016g000003PipKAAS",
-            "ShippingAddress": {
-                "city": "San Francisco",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "94105",
-                "state": "CA",
-                "street": "50 Fremont Street"
-            },
             "ShippingCity": "San Francisco",
             "ShippingCountry": "United States",
             "ShippingPostalCode": "94105",
@@ -90,11 +62,9 @@
             },
             "AnnualRevenue": 1000000000,
             "Description": "Stark Ventures is a multinational industrial company and the largest manufacturing conglomerate in the world. Founded in 1939.",
-            "IsDeleted": false,
             "Name": "Stark Ventures",
             "NumberOfEmployees": 10000,
-            "Phone": "(800) 987-6543",
-            "PhotoUrl": "/services/images/photo/0016g000003PipXAAS"
+            "Phone": "(800) 987-6543"
         },
         {
             "attributes": {
@@ -102,11 +72,9 @@
                 "referenceId": "AccountRef6"
             },
             "AnnualRevenue": 5000000000,
-            "IsDeleted": false,
             "Name": "Bluth Developers",
             "NumberOfEmployees": 20,
-            "Phone": "(800) 567-1239",
-            "PhotoUrl": "/services/images/photo/0016g000003PipYAAS"
+            "Phone": "(800) 567-1239"
         },
         {
             "attributes": {
@@ -115,11 +83,9 @@
             },
             "AnnualRevenue": 8000000000,
             "Industry": "Utilities",
-            "IsDeleted": false,
             "Name": "Lex Chemicals",
             "NumberOfEmployees": 15000,
-            "Phone": "(800) 981-1265",
-            "PhotoUrl": "/services/images/photo/0016g000003PipZAAS"
+            "Phone": "(800) 981-1265"
         },
         {
             "attributes": {
@@ -128,26 +94,14 @@
             },
             "AnnualRevenue": 20000000000,
             "Industry": "Entertainment",
-            "IsDeleted": false,
             "Name": "Wally Worldwide Studios",
             "NumberOfEmployees": 580,
-            "Phone": "(800) 800-8918",
-            "PhotoUrl": "/services/images/photo/0016g000003PipaAAC"
+            "Phone": "(800) 800-8918"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef9"
-            },
-            "BillingAddress": {
-                "city": "Armonk",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "10504",
-                "state": "NY",
-                "street": "1 North Castle Drive"
             },
             "BillingCity": "Armonk",
             "BillingCountry": "United States",
@@ -155,10 +109,8 @@
             "BillingState": "NY",
             "BillingStreet": "1 North Castle Drive",
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "International Business Machines",
             "Phone": "917-334-5421",
-            "PhotoUrl": "/services/images/photo/0016g000003PipbAAC",
             "Type": "Customer",
             "Website": "www.ibm.com"
         },
@@ -169,10 +121,8 @@
             },
             "AnnualRevenue": 2000000000,
             "Industry": "Entertainment",
-            "IsDeleted": false,
             "Name": "Panasonic Avionics",
             "NumberOfEmployees": 10000,
-            "PhotoUrl": "/services/images/photo/0016g000003PipcAAC",
             "Type": "Customer"
         },
         {
@@ -180,10 +130,8 @@
                 "type": "Account",
                 "referenceId": "AccountRef11"
             },
-            "IsDeleted": false,
             "Name": "Cerner Corporation",
             "Phone": "4165551234",
-            "PhotoUrl": "/services/images/photo/0016g000003PipdAAC",
             "Type": "Customer"
         },
         {
@@ -192,18 +140,14 @@
                 "referenceId": "AccountRef12"
             },
             "Industry": "Finance",
-            "IsDeleted": false,
-            "Name": "Woodward Markwell",
-            "PhotoUrl": "/services/images/photo/0016g000003PipgAAC"
+            "Name": "Woodward Markwell"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef13"
             },
-            "IsDeleted": false,
-            "Name": "British Airways",
-            "PhotoUrl": "/services/images/photo/0016g000003PipiAAC"
+            "Name": "British Airways"
         },
         {
             "attributes": {
@@ -212,10 +156,8 @@
             },
             "AnnualRevenue": 30000000,
             "Industry": "Hospitality",
-            "IsDeleted": false,
             "Name": "KSD",
             "NumberOfEmployees": 60,
-            "PhotoUrl": "/services/images/photo/0016g000003PipjAAC",
             "Type": "Customer"
         },
         {
@@ -223,9 +165,7 @@
                 "type": "Account",
                 "referenceId": "AccountRef15"
             },
-            "IsDeleted": false,
-            "Name": "Adam Family",
-            "PhotoUrl": "/services/images/photo/0016g000003PipoAAC"
+            "Name": "Adam Family"
         },
         {
             "attributes": {
@@ -233,9 +173,7 @@
                 "referenceId": "AccountRef16"
             },
             "Industry": "Construction",
-            "IsDeleted": false,
             "Name": "Abb limited",
-            "PhotoUrl": "/services/images/photo/0016g000003PipsAAC",
             "Type": "Customer"
         },
         {
@@ -245,9 +183,7 @@
             },
             "AnnualRevenue": 1000000,
             "Industry": "Construction",
-            "IsDeleted": false,
             "Name": "Amity university",
-            "PhotoUrl": "/services/images/photo/0016g000003PiplAAC",
             "Type": "Customer"
         },
         {
@@ -255,9 +191,7 @@
                 "type": "Account",
                 "referenceId": "AccountRef18"
             },
-            "IsDeleted": false,
             "Name": "Vango Brokers",
-            "PhotoUrl": "/services/images/photo/0016g000003PipkAAC",
             "Type": "Customer"
         },
         {
@@ -265,28 +199,22 @@
                 "type": "Account",
                 "referenceId": "AccountRef19"
             },
-            "IsDeleted": false,
-            "Name": "A J Gallagher",
-            "PhotoUrl": "/services/images/photo/0016g000003PiphAAC"
+            "Name": "A J Gallagher"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef20"
             },
-            "IsDeleted": false,
-            "Name": "Lowe's",
-            "PhotoUrl": "/services/images/photo/0016g000003PippAAC"
+            "Name": "Lowe's"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef21"
             },
-            "IsDeleted": false,
             "Name": "Waysahead",
             "Phone": "99200183465",
-            "PhotoUrl": "/services/images/photo/0016g000003PiptAAC",
             "Type": "Partner"
         },
         {
@@ -294,24 +222,12 @@
                 "type": "Account",
                 "referenceId": "AccountRef22"
             },
-            "IsDeleted": false,
-            "Name": "IBM Australia",
-            "PhotoUrl": "/services/images/photo/0016g000003PipqAAC"
+            "Name": "IBM Australia"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef23"
-            },
-            "BillingAddress": {
-                "city": "Boston",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "02118",
-                "state": "MA",
-                "street": "72 East Concord Street"
             },
             "BillingCity": "Boston",
             "BillingCountry": "United States",
@@ -319,45 +235,21 @@
             "BillingState": "MA",
             "BillingStreet": "72 East Concord Street",
             "Industry": "Insurance",
-            "IsDeleted": false,
             "Name": "Acme, Inc.",
-            "Phone": "8883636899",
-            "PhotoUrl": "/services/images/photo/0016g000003PipuAAC"
+            "Phone": "8883636899"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef24"
             },
-            "BillingAddress": {
-                "city": "Cook",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "MA",
-                "street": "1419 Gunderson Ave"
-            },
             "BillingCity": "Cook",
             "BillingCountry": "United States",
             "BillingState": "MA",
             "BillingStreet": "1419 Gunderson Ave",
             "Industry": "Finance",
-            "IsDeleted": false,
             "Name": "Acme Real Estate",
             "Phone": "8883636889",
-            "PhotoUrl": "/services/images/photo/0016g000003PipvAAC",
-            "ShippingAddress": {
-                "city": "Cook",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "MA",
-                "street": "1419 Gunderson Ave"
-            },
             "ShippingCity": "Cook",
             "ShippingState": "MA",
             "ShippingStreet": "1419 Gunderson Ave"
@@ -367,34 +259,12 @@
                 "type": "Account",
                 "referenceId": "AccountRef25"
             },
-            "BillingAddress": {
-                "city": "Cambridge",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "MA",
-                "street": "240 E 3rd Ave"
-            },
             "BillingCity": "Cambridge",
             "BillingState": "MA",
             "BillingStreet": "240 E 3rd Ave",
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "Acme Global",
             "Phone": "9883636888",
-            "PhotoUrl": "/services/images/photo/0016g000003PipwAAC",
-            "ShippingAddress": {
-                "city": "Cambridge",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "MA",
-                "street": "240 E 3rd Ave"
-            },
             "ShippingCity": "Cambridge",
             "ShippingState": "MA",
             "ShippingStreet": "240 E 3rd Ave"
@@ -404,35 +274,13 @@
                 "type": "Account",
                 "referenceId": "AccountRef26"
             },
-            "BillingAddress": {
-                "city": "Lowell",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "97233",
-                "state": "MA",
-                "street": "16909 SE Alder St"
-            },
             "BillingCity": "Lowell",
             "BillingPostalCode": "97233",
             "BillingState": "MA",
             "BillingStreet": "16909 SE Alder St",
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "ACME Technologies",
             "Phone": "8783636888",
-            "PhotoUrl": "/services/images/photo/0016g000003PipxAAC",
-            "ShippingAddress": {
-                "city": "Lowell",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "97233",
-                "state": "MA",
-                "street": "16909 SE Alder St"
-            },
             "ShippingCity": "Lowell",
             "ShippingPostalCode": "97233",
             "ShippingState": "MA",
@@ -443,33 +291,11 @@
                 "type": "Account",
                 "referenceId": "AccountRef27"
             },
-            "BillingAddress": {
-                "city": "Boston",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "MA",
-                "street": null
-            },
             "BillingCity": "Boston",
             "BillingState": "MA",
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "Acme United Corporation.",
             "Phone": "8883636888",
-            "PhotoUrl": "/services/images/photo/0016g000003PipyAAC",
-            "ShippingAddress": {
-                "city": "Boston",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "MA",
-                "street": null
-            },
             "ShippingCity": "Boston",
             "ShippingState": "MA"
         },
@@ -478,16 +304,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef28"
             },
-            "BillingAddress": {
-                "city": "Toronto",
-                "country": "Canada",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "L4B 1Y3",
-                "state": "Ontario",
-                "street": "150 Chestnut Street"
-            },
             "BillingCity": "Toronto",
             "BillingCountry": "Canada",
             "BillingPostalCode": "L4B 1Y3",
@@ -495,21 +311,9 @@
             "BillingStreet": "150 Chestnut Street",
             "Description": "GBM is the worldwide leader in technology news and information on the Web and the producer of the longest-running and farthest-reaching television shows about technology. GBM's network of sites combines breakthrough interactive technology with engaging content and design and is consistently ranked as the Internet's leading content network in terms of both audience size and revenue, serving millions of users each day. The company's television programming is broadcast by the USA Network and the Sci-Fi Channel to more than 70 million households and is syndicated to broadcast television stations in the nation's top 120 markets, including the top 10 markets.",
             "Industry": "Media",
-            "IsDeleted": false,
             "Name": "Global Media",
             "NumberOfEmployees": 14668,
             "Phone": "(905) 555-1212",
-            "PhotoUrl": "/services/images/photo/0016g000003PipEAAS",
-            "ShippingAddress": {
-                "city": "Toronto",
-                "country": "Canada",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "L4B 1Y3",
-                "state": "Ontario",
-                "street": "150 Chestnut Street"
-            },
             "ShippingCity": "Toronto",
             "ShippingCountry": "Canada",
             "ShippingPostalCode": "L4B 1Y3",
@@ -523,16 +327,6 @@
                 "referenceId": "AccountRef29"
             },
             "AnnualRevenue": 100000000,
-            "BillingAddress": {
-                "city": "New York",
-                "country": "USA",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "31349",
-                "state": "NY",
-                "street": "10 Main Rd."
-            },
             "BillingCity": "New York",
             "BillingCountry": "USA",
             "BillingPostalCode": "31349",
@@ -540,21 +334,9 @@
             "BillingStreet": "10 Main Rd.",
             "Fax": "(212) 555-5555",
             "Industry": "Manufacturing",
-            "IsDeleted": false,
             "Name": "Acme",
             "NumberOfEmployees": 680,
             "Phone": "(212) 555-5555",
-            "PhotoUrl": "/services/images/photo/0016g000003PipFAAS",
-            "ShippingAddress": {
-                "city": "New York",
-                "country": "USA",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "31349",
-                "state": "NY",
-                "street": "10 Main Rd."
-            },
             "ShippingCity": "New York",
             "ShippingCountry": "USA",
             "ShippingPostalCode": "31349",
@@ -567,16 +349,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef30"
             },
-            "BillingAddress": {
-                "city": "San Francisco",
-                "country": "USA",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "94105",
-                "state": "CA",
-                "street": "The Landmark @ One Market, Suite 300"
-            },
             "BillingCity": "San Francisco",
             "BillingCountry": "USA",
             "BillingPostalCode": "94105",
@@ -585,20 +357,8 @@
             "Description": "Founded in March 1999, salesforce.com (http://www.salesforce.com) builds and delivers customer relationship management (CRM) applications as scalable online services. The salesforce.com product suite - Team Edition, Professional Edition, Enterprise Edition, Wireless Edition and Offline Edition - gives companies of all sizes a complete 360-degree view of the customer. The company's award-winning CRM solutions provide integrated online sales force automation, customer service and support management, and marketing automation applications to help companies meet the complex challenges of global customer communication. Salesforce.com has received considerable recognition in the industry, including Editors' Choice and two Five-Star ratings from PC Magazine, two Deploy Awards from InfoWorld, Red Herring 100, Upside Hot 100, Investor's Choice Award from Enterprise Outlook, Editors' Choice from TMCLabs, Top 10 CRM Implementation from Aberdeen Group, and InfoWorld's 2001 CRM Technology of the Year. Founded in 1999, salesforce.com is headquartered in San Francisco, with offices in Europe and Asia.",
             "Fax": "(415) 901-7040",
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "salesforce.com",
             "Phone": "(415) 901-7000",
-            "PhotoUrl": "/services/images/photo/0016g000003PipGAAS",
-            "ShippingAddress": {
-                "city": "San Francisco",
-                "country": "USA",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "94105",
-                "state": "CA",
-                "street": "The Landmark @ One Market, Suite 300"
-            },
             "ShippingCity": "San Francisco",
             "ShippingCountry": "USA",
             "ShippingPostalCode": "94105",
@@ -612,9 +372,7 @@
                 "type": "Account",
                 "referenceId": "AccountRef31"
             },
-            "IsDeleted": false,
             "Name": "Miller Group",
-            "PhotoUrl": "/services/images/photo/0016g000003PipPAAS",
             "Type": "Customer",
             "Website": "millerfin.com"
         },
@@ -623,33 +381,19 @@
                 "type": "Account",
                 "referenceId": "AccountRef32"
             },
-            "IsDeleted": false,
-            "Name": "Jenkins Trader",
-            "PhotoUrl": "/services/images/photo/0016g000003PiprAAC"
+            "Name": "Jenkins Trader"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef33"
             },
-            "IsDeleted": false,
-            "Name": "Superstore",
-            "PhotoUrl": "/services/images/photo/0016g000003PipQAAS"
+            "Name": "Superstore"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef34"
-            },
-            "BillingAddress": {
-                "city": "Washington",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "20024",
-                "state": "DC",
-                "street": "600 Maryland Avenue Southwest"
             },
             "BillingCity": "Washington",
             "BillingCountry": "United States",
@@ -657,9 +401,7 @@
             "BillingState": "DC",
             "BillingStreet": "600 Maryland Avenue Southwest",
             "Industry": "Government",
-            "IsDeleted": false,
             "Name": "U.S. Postal Service",
-            "PhotoUrl": "/services/images/photo/0016g000003PipRAAS",
             "Type": "Other"
         },
         {
@@ -667,10 +409,8 @@
                 "type": "Account",
                 "referenceId": "AccountRef35"
             },
-            "IsDeleted": false,
             "Name": "Santander Bank",
             "Phone": "1987654321",
-            "PhotoUrl": "/services/images/photo/0016g000003PipSAAS",
             "Type": "Customer",
             "Website": "www.smp.com"
         },
@@ -680,11 +420,9 @@
                 "referenceId": "AccountRef36"
             },
             "Industry": "Technology",
-            "IsDeleted": false,
             "Name": "Maven Operations",
             "NumberOfEmployees": 30000,
             "Phone": "(189) 145-6387",
-            "PhotoUrl": "/services/images/photo/0016g000003PipTAAS",
             "Type": "Customer"
         },
         {
@@ -695,10 +433,8 @@
             "AnnualRevenue": 35600000000,
             "Description": "The Lufthansa Group is an aviation company with operations worldwide. In the financial year 2017, the Lufthansa Group generated revenue of EUR 35.6bn and employed an average of 128,856 staff. The structure of the business segments was adjusted in line with the three-pillar concept behind the corporate strategy at the beginning of the financial year. Since then, the Lufthansa Group has been organized into the business segments Network Airlines, Point-to-Point Airlines, Aviation Services (comprising the segments Logistics, MRO and Catering), and Additional Businesses and Group Functions.",
             "Industry": "Transportation",
-            "IsDeleted": false,
             "Name": "Lufthansa Group",
             "NumberOfEmployees": 129424,
-            "PhotoUrl": "/services/images/photo/0016g000003PipUAAS",
             "Type": "Customer",
             "Website": "https://www.lufthansagroup.com/en/company.html"
         },
@@ -707,10 +443,8 @@
                 "type": "Account",
                 "referenceId": "AccountRef38"
             },
-            "IsDeleted": false,
             "Name": "Pizza Hut",
-            "Phone": "+34934564672",
-            "PhotoUrl": "/services/images/photo/0016g000003PipVAAS"
+            "Phone": "+34934564672"
         },
         {
             "attributes": {
@@ -718,10 +452,8 @@
                 "referenceId": "AccountRef39"
             },
             "Industry": "Manufacturing",
-            "IsDeleted": false,
             "Name": "Ohana Ventures",
             "Phone": "(123) 456-7890",
-            "PhotoUrl": "/services/images/photo/0016g000003PipWAAS",
             "Type": "Customer"
         },
         {
@@ -730,9 +462,7 @@
                 "referenceId": "AccountRef40"
             },
             "Industry": "Banking",
-            "IsDeleted": false,
             "Name": "Citibank",
-            "PhotoUrl": "/services/images/photo/0016g000003PipMAAS",
             "Type": "Customer"
         },
         {
@@ -741,10 +471,8 @@
                 "referenceId": "AccountRef41"
             },
             "Industry": "Healthcare",
-            "IsDeleted": false,
             "Name": "Pfizer Inc",
             "Phone": "555284387",
-            "PhotoUrl": "/services/images/photo/0016g000003PipNAAS",
             "Type": "Customer",
             "Website": "pfizer.com"
         },
@@ -753,9 +481,7 @@
                 "type": "Account",
                 "referenceId": "AccountRef42"
             },
-            "IsDeleted": false,
-            "Name": "Jiffy Plc",
-            "PhotoUrl": "/services/images/photo/0016g000003PipOAAS"
+            "Name": "Jiffy Plc"
         },
         {
             "attributes": {
@@ -763,23 +489,11 @@
                 "referenceId": "AccountRef43"
             },
             "AnnualRevenue": 50000000,
-            "BillingAddress": {
-                "city": "Houston",
-                "country": null,
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": null,
-                "state": "TX",
-                "street": null
-            },
             "BillingCity": "Houston",
             "BillingState": "TX",
             "Industry": "Transportation",
-            "IsDeleted": false,
             "Name": "Northside Lexus",
             "Phone": "713-555-1111",
-            "PhotoUrl": "/services/images/photo/0016g000003PipmAAC",
             "Type": "Partner"
         },
         {
@@ -788,11 +502,9 @@
                 "referenceId": "AccountRef44"
             },
             "Industry": "Manufacturing",
-            "IsDeleted": false,
             "Name": "Tata Steel",
             "NumberOfEmployees": 10000,
             "Phone": "8668412348",
-            "PhotoUrl": "/services/images/photo/0016g000003PipnAAC",
             "Type": "Customer"
         },
         {
@@ -800,27 +512,21 @@
                 "type": "Account",
                 "referenceId": "AccountRef45"
             },
-            "IsDeleted": false,
-            "Name": "Universal Exports",
-            "PhotoUrl": "/services/images/photo/0016g000003PipLAAS"
+            "Name": "Universal Exports"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef46"
             },
-            "IsDeleted": false,
-            "Name": "Future Group Limited",
-            "PhotoUrl": "/services/images/photo/0016g000003PipeAAC"
+            "Name": "Future Group Limited"
         },
         {
             "attributes": {
                 "type": "Account",
                 "referenceId": "AccountRef47"
             },
-            "IsDeleted": false,
-            "Name": "Conrad labs",
-            "PhotoUrl": "/services/images/photo/0016g000003PipfAAC"
+            "Name": "Conrad labs"
         }
     ]
 }

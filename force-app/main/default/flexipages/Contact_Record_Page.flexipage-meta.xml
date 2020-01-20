@@ -188,45 +188,6 @@
             </componentInstanceProperties>
             <componentName>Einstein_Builder_Mega</componentName>
         </componentInstances>
-        <!-- <componentInstances>
-            <componentInstanceProperties>
-                <name>hideEinstein</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>hideWhenEmpty</name>
-                <value>false</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>launchOption</name>
-                <value>launchModal</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>maxDisplayPropositions</name>
-                <value>1</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>showDescription</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>showImage</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>showRejectAction</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>strategyName</name>
-                <value>Upgrade_Or_Retain</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>widgetTitle</name>
-                <value>Einstein Next Best Action</value>
-            </componentInstanceProperties>
-            <componentName>runtime_communities_nba:builderNbaWidget</componentName>
-        </componentInstances> -->
         <componentInstances>
             <componentInstanceProperties>
                 <name>tabs</name>
